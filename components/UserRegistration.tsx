@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Footer from '../Footer';
+// import Footer from '@/components/Footer';
 
 const UserRegistration: React.FC = () => {
   const [name, setName] = useState('');
@@ -93,7 +93,7 @@ const UserRegistration: React.FC = () => {
         </div>
       </div>
       {/* Footer section */}
-      <Footer />
+      {/* <Footer /> */}
     </section>
   );
 };

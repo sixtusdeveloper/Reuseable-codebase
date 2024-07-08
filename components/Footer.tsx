@@ -1,5 +1,7 @@
 // import React from 'react';
 
+import React from "react";
+
 const Footer = () => {
   return (
     <footer className="bg-aliceblue w-full mx-auto py-3 text-center">
